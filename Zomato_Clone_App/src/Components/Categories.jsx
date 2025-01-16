@@ -26,9 +26,7 @@ const Categories = () => {
 
   return (
     <section className="py-12">
-      <h2 className="text-3xl font-bold text-center mb-8">
-        Popular Categories
-      </h2>
+      <h2 className="text-3xl text-center mb-8">Popular Categories</h2>
       <div className="flex justify-center gap-8">
         {items.map((item, index) => (
           <div

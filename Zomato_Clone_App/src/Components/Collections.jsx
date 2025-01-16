@@ -35,7 +35,7 @@ const Collections = () => {
 
   return (
     <section className="py-12 bg-gray-100">
-      <h2 className="text-3xl font-bold text-center mb-8">Collections</h2>
+      <h2 className="text-3xl text-center mb-8">Collections</h2>
       <p className="text-center text-gray-600 mb-8">
         Explore curated lists of top restaurants, cafes, pubs, and bars in
         Mumbai, based on trends
