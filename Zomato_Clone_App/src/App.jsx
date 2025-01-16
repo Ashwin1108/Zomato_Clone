@@ -5,6 +5,7 @@ import Categories from "./Components/Categories";
 import Collections from "./Components/Collections";
 import Localities from "./Components/Localities";
 import GetApp from "./Components/GetApp";
+import ExploreOptions from "./Components/ExploreOptions";
 
 const App = () => {
   return (
@@ -14,6 +15,7 @@ const App = () => {
       <Collections />
       <Localities />
       <GetApp />
+      <ExploreOptions />
     </div>
   );
 };
