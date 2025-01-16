@@ -6,6 +6,7 @@ import Collections from "./Components/Collections";
 import Localities from "./Components/Localities";
 import GetApp from "./Components/GetApp";
 import ExploreOptions from "./Components/ExploreOptions";
+import Footer from "./Components/Footer";
 
 const App = () => {
   return (
@@ -16,6 +17,7 @@ const App = () => {
       <Localities />
       <GetApp />
       <ExploreOptions />
+      <Footer />
     </div>
   );
 };
